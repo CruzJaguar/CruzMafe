@@ -80,7 +80,7 @@ a:hover {
     background-color: paleturquoise;
     position: relative;
     padding-top: 100px;
-    height: 540px;
+    height: 600px;
 }
 
 .middle-container {
@@ -144,8 +144,7 @@ a:hover {
     background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
     background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
     text-decoration: none;
-  }
-
+}
 
 
 
